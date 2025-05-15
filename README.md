@@ -1,4 +1,4 @@
-### 👋 Hi there. I'm Srija Adapa! 
+### 👋 Hi there... I'm Srija Adapa! 
 
 I’m a **Data Science** graduate student at UMBC with a strong interest in data engineering and machine learning. I have practical experience in building scalable data pipelines and developing predictive models using Python and key data science libraries. I enjoy working with complex datasets and am passionate about turning raw data into meaningful insights that support real-world decision-making.
 
