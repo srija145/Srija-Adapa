@@ -26,15 +26,15 @@ I’m a **Data Science** graduate student at UMBC with a strong interest in data
 
 ### 🌟 Skills & Expertise
 
-* **Programming Languages**: Python, Java, C, C#
+* **Programming Languages**: Python, R , SQL
 
-* **Machine Learning & AI**: TensorFlow, PyTorch, Regression Analysis, NLP
+* **Machine Learning & AI**: Supervised and Unsupervised Learning,NLP
 
-* **Big Data Technologies**: Hadoop, Spark, AWS
+* **Big Data Technologies**: Hadoop,Apache Spark, AWS
 
 * **Databases**: MySQL, PostgreSQL, MongoDB
 
-* **Visualization**: Tableau, Matplotlib, Seaborn
+* **Visualization**: Tableau, PowerBi, Matplotlib, Seaborn
 
 ### 💼 I’m looking for
 
